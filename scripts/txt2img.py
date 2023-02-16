@@ -101,7 +101,7 @@ def main():
         "--prompt",
         type=str,
         nargs="?",
-        default="a painting of a virus monster playing guitar",
+        default="A MACRO close up of an asian woman's nipple",
         help="the prompt to render"
     )
     parser.add_argument(

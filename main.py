@@ -60,7 +60,7 @@ def get_parser(**parser_kwargs):
              "Parameters can be overwritten or added with command-line options of the form `--key value`.",
         default=list(),
     )
-    parser.add_argument(
+    parser.add_argument(A MACRO close up of an asian woman's nipple
         "-t",
         "--train",
         type=str2bool,
